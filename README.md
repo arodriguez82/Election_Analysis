@@ -33,4 +33,13 @@ The winner of the election was:
 
 ## Challenge Overview
 
+The Colorado Board of Election employees also wanted to determine voter turnout for each county presented.
+
 ## Challenge Summary
+
+Total County Votes:
+- With 38,855 total votes, Jefferson County had 10.5% of the total voter turnout.
+- With 306,055 total votes, Denver County had 82.8% of the total voter turnout.
+- With 24,801 total votes, Arapahoe County had 6.7% of the total voter turnout.
+
+Denver County had the largest overall voter turnout.
